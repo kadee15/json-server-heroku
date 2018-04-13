@@ -1,9 +1,8 @@
 {
-  "posts":[
+  "events":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "date" : "13-04-2018 11:20:00",
+      "title": "Real Madrid - Roma"
     }
   ],
   "comments" : [
